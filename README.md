@@ -5,4 +5,4 @@ This application was based on a UML class diagram.
 
 # How to run the project
 
-To run the project, just import all Java classes into IntelliJ IDEA or NetBeans IDE.
+To run the project, just import all Java classes into IntelliJ IDEA or NetBeans IDE. The Java classes are separated into two packages 'principal' and 'trab1'.
